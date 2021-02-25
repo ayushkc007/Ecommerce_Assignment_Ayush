@@ -26,10 +26,12 @@ for making virtual env:
       rm -rf vir-env
 
 to create a django project - 
+
     django-admin startproject ecommerce_project_name
     cd ecommerce_yourname to perform manage.py actions
 
 migrating - 
+
     python manage.py makemigrations 
     python manage.py migrate 
 
