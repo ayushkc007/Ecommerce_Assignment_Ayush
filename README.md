@@ -44,3 +44,6 @@ Features:
 - There is one super user who manages the system
 - You can create more users and assign them roles via the admin panel
 - login system for admin and users which is handled by django admin with its default template
+
+NOTE: Primary Keys
+By default, Django adds an id field to each model, which is used as the primary key for that model. You can create your own primary key field by adding the keyword arg primary_key=True to a field.
