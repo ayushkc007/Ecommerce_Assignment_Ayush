@@ -35,6 +35,9 @@ migrating -
     python manage.py makemigrations 
     python manage.py migrate 
 
+to create new app:
+            
+    python manage.py startapp app_name
 
 Features:
 - We can do CRUD operation via Admin Panel
