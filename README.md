@@ -15,7 +15,9 @@ Summary:
 This is a project made for lab exam purpose. The project uses default database provided by django. It consistes of one app module i.e exam_module Module. Also it has only one table that consists of exam date, exam name, description, exam status, total marks and pass marks. These datas can be viewed and edited by the admin of the system i.e superuser.
 
 Some terminal codes:
+
 for making virtual env:
+
       python3 -m venv vir-env
       source vir-env/bin/activate
 
